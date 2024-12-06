@@ -19,7 +19,8 @@ require_once 'functions.php';
             <h2>ナレッジ一覧</h2>
             <div>
                 <a href="create.php" class="btn btn-primary">新規作成</a>
-                <a href="export.php" class="btn btn-success">Salesforceデータエクスポート</a>
+                <a href="export.php" class="btn btn-success">Salesforceエクスポート</a>
+                <a href="export3.php" class="btn btn-success">ナレッジエクスポート</a>
             </div>
         </div>
         
